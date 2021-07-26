@@ -6,6 +6,7 @@ An example of offline video player application to demonstrate YouTube's video pl
 * Motion layout
 * Fetching videos
 * Glide for smooth scrolling
+* Swipe down to minimize video player
 * Dexter for realtime permission handling
 
 ## To add ExoPlayer
